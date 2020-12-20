@@ -1,0 +1,73 @@
+﻿  imageloader.cpp
+  main.cpp
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(36,41): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(36,34): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(47,36): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(47,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(56,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(58,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(59,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(60,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(61,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(62,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(63,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(64,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(65,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(66,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(67,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(68,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(69,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(70,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(71,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(72,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(73,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(74,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(155,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(155,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(156,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(156,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(157,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(157,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(158,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(158,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(159,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(159,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(160,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(160,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(161,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(161,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(162,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(162,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(163,44): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(163,37): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(205,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(218,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(218,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(241,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(241,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(264,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(264,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(287,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(287,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(316,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(316,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(334,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(347,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(347,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(367,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(380,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(380,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(386,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(386,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(387,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(387,26): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(404,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(417,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(417,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(433,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(446,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(446,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(475,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\pesen\Desktop\Solar-system-170709050\main.cpp(475,33): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+  Generating Code...
+  SolarSystem.vcxproj -> C:\Users\pesen\Desktop\Solar-system-170709050\Debug\SolarSystem.exe

@@ -1,0 +1,6 @@
+C:\Users\pesen\Desktop\Solar-system-master\Debug\SolarSystem.exe
+C:\Users\pesen\Desktop\Solar-system-master\Debug\SolarSystem.pdb
+C:\Users\pesen\Desktop\Solar-system\Debug\SolarSystem.exe
+C:\Users\pesen\Desktop\Solar-system\Debug\SolarSystem.pdb
+C:\Users\pesen\Desktop\Solar-system-170709050\Debug\SolarSystem.exe
+C:\Users\pesen\Desktop\Solar-system-170709050\Debug\SolarSystem.pdb
